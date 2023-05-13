@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ezequiel_garzon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ezequiel-garzon.com
+  * I am ezequiel_garzon (https://keybase.io/ezequiel_garzon) on keybase.
+  * I have a public key ASBBFVnPae4s0HXkI8KMnXZECk28ovJZqOx9IWucjq-dNQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205649b437c3f7686eadd109500d55d511239f688f6c16b190fb9d32021b6ad5c60a",
+      "host": "keybase.io",
+      "kid": "0120411559cf69ee2cd075e423c28c9d76440a4dbca2f259a8ec7d216b9c8eaf9d350a",
+      "uid": "77924efb249053b15551f621fc31bd19",
+      "username": "ezequiel_garzon"
+    },
+    "merkle_root": {
+      "ctime": 1629056617,
+      "hash": "c6e945657d24a9440943ee24c14f05a215c1fab0f79d6cd078bd79862d21a501f255d0f238e09ac8e781555752b0034ca0316bc71a25dbf3dd2b713ae3b4e386",
+      "hash_meta": "d39508b1118a595f04e80dfd9a6b1c065dd64a97689522e5a7bb4f11d4e208d4",
+      "seqno": 20570444
+    },
+    "service": {
+      "entropy": "bFn4IkhG4KtEm0LkP1ZniCN/",
+      "hostname": "ezequiel-garzon.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1629056676,
+  "expire_in": 504576000,
+  "prev": "ce3b4f1aa7883ad1cdf64868b80a8aeba64371c6f6cc14f40332c4dbd508cf24",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQRVZz2nuLNB15CPCjJ12RApNvKLyWajsfSFrnI6vnTUKp3BheWxvYWTESpcCIsQgzjtPGqeIOtHN9khouAqK66ZDccb2zBT0AzLE29UIzyTEIOt7MnhoQjFMZl7DtspQ+R2A5Y+0PWQjjctQ/yEl1FaKAgHCo3NpZ8RAbgGZrAIOrfGPk/MO8S4XbybXV4A+WHQu2HlXKomAoGScx/SvL+JG0844Rypxu+Y93d4R3nqqVA1q8xHN9yi9D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMxzRBDV8/KYimBMLFpAqRLV/3go6Yd66rx/5RWgMeWPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ezequiel_garzon
+
+==================================================================
